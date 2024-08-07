@@ -1,0 +1,5 @@
+docker_py==1.10.6
+fastapi==0.111.0
+motor==3.3.2
+pydantic==2.7.3
+pymongo==4.6.2
